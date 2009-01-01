@@ -1,5 +1,5 @@
 ##KBDCONF-1.0
-kbd 130 45
+kbd 140 45
 fuzz 20
 
 # keyboard type
@@ -41,7 +41,7 @@ key 85  5  10  10
 key 95  5  10  10
   normal   p "p"
   shift    P "P"
-key 100  5  10  10
+key 105  5  10  10
   normal   å "å"
   shift    Å "Å"
 
@@ -72,10 +72,10 @@ key 80 15  10  10
 key 90 15  10  10
   normal   l "l"
   shift    L "L"
-key 95 15  10  10
+key 100 15  10  10
   normal   ö "ö"
   shift    Ö "Ö"
-key 100 15  10  10
+key 110 15  10  10
   normal   ä "ä"
   shift    Ä "Ä"
 
@@ -100,16 +100,16 @@ key 65 25  10  10
 key 75 25  10  10
   normal   m "m"
   shift    M "M"
-key 105 25 10  10
+key 115 25 10  10
   normal   shift.png
   is_shift
 
-key 115 5  10  10
+key 125 5  10  10
   normal   . period
   shift    , comma
-key 115 15 10  10
+key 125 15 10  10
   normal   ? question
   shift    ! exclam
-key 115 25 10  10
+key 125 25 10  10
   normal   / slash
   shift    / slash
