@@ -3,6 +3,6 @@ MODULE = illume
 
 filesdir = $(libdir)/enlightenment/modules/$(MODULE)/dicts
 files_DATA = \
-            Swedish.dic
+            Swedish_Small.dic
 
 EXTRA_DIST = $(files_DATA)
